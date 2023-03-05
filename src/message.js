@@ -4,4 +4,3 @@ const message = {
 };
 
 export default message;
-s;
